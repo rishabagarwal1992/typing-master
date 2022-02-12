@@ -12,3 +12,9 @@ Future options:
 
 Author: Rishab Agarwal
 Email: ag.rishab2013@outlook.com
+
+
+Steps to run the code:
+1. Clone the Repo
+2. Do **npm install**
+3. Execute **npm start**
